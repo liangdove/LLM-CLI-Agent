@@ -80,7 +80,7 @@ ollama pull model_name
 ```
 pip install requirements.txt
 ```
-4. 编辑mybot.bat批处理文件，替换掉.py项目路径和conda解释器路径
+4. 编辑mybot.bat批处理文件，替换掉.py文件路径和conda解释器路径
 ```
 @echo off
 call "C:\Users\86151\anaconda3\condabin\conda.bat" activate py310

@@ -1,0 +1,5 @@
+FROM qwen2.5:3b
+# 设定温度参数为1 [更高的更具有创新性，更低的更富有连贯性]
+PARAMETER temperature 1
+# 将上下文窗口大小设置为4096，这控制着LLM能够使用多少个token来生成下一个token。
+PARAMETER num_ctx 4096

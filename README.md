@@ -91,7 +91,7 @@ python "C:\E\LLM_Agent\mybot.py" %*
 ->windows系统
 ->高级系统设置
 ->编辑Path环境变量
-->添加项目地址）
+->添加项目地址
 ```
 6. 编辑Modelfile客制化你的模型！
 ```

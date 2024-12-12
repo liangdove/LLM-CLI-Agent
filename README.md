@@ -1,4 +1,4 @@
-# BUPT OS MYBOT项目文档
+# BUPT OS MYBOT项目文档 自用
 
 ## 功能介绍
 
